@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642611424663",
+    "project_id": "fotografpaylasma-d9962",
+    "storage_bucket": "fotografpaylasma-d9962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642611424663:android:0c6c46c32db76d6309a8d2",
+        "android_client_info": {
+          "package_name": "com.mustafaberat.fotografpaylasmauygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642611424663-l01uc3a06skercd7bi7h572vktshqpmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACsdF7lV40KyGuS0KS_ExkdY_JPC2ySew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642611424663-l01uc3a06skercd7bi7h572vktshqpmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
